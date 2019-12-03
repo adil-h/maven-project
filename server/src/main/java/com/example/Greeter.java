@@ -1,19 +1,17 @@
 package com.example;
 
-/**
- * This is a class.
- */
+
 public class Greeter {
 
-  /**
-   * This is a constructor.
-   */
+  
   public Greeter() {
     // modif 1
   }
 
   //TODO: Add javadoc comment
   public String greet(String someone) {
+    if(true)
+      System.out.println("hello");
     return String.format("Hello, %s!", someone);
   }
 }
