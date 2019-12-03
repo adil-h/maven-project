@@ -9,7 +9,7 @@ public class Greeter {
    * This is a constructor.
    */
   public Greeter() {
-
+    // modif 1
   }
 
   //TODO: Add javadoc comment
